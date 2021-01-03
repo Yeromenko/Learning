@@ -12,7 +12,6 @@ public class Main {
         System.out.println("Number of persons: " + personStatistics.getPersonsCount());
         System.out.println("The oldest person is: " + personStatistics.getTheOldestPerson());
         System.out.println("List:" + personRepository.getAllPersons());
-        System.out.println("Number of persons: " + personStatistics.getPersonsCount());
         // etc
     }
 
